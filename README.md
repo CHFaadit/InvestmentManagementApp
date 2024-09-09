@@ -43,14 +43,16 @@ This project is a full-stack investment management system developed by Baldeep P
 
    Configure the API:
 
-Add your Alpha Vantage API key to the configuration settings within the app.
-Run the Application:
+3. Configure the API:
+- Add your Alpha Vantage API key to the configuration settings within the app.
 
-Open the project in Visual Studio.
-Ensure that your database connection string is correctly configured.
-Build and run the app to start managing your investments.
-Use the App:
+4. Run the Application:
+1. Open the project in Visual Studio.
+2. Ensure that your database connection string is correctly configured.
+3. Build and run the app to start managing your investments.
 
-Log in with your credentials.
-Enter stock tickers and view live prices.
-Create, update, or delete portfolio entries to manage your investments.
+5. Use the App:
+- Log in with your credentials.
+- Enter stock tickers and view live prices.
+- Create, update, or delete portfolio entries to manage your investments.
+
