@@ -1,4 +1,4 @@
-**Developed By:** Aadit Shah, Baldeep Pannu
+**Developed By:** Aadit Shah and Baldeep Pannu
 
 **Technologies Used:** C#, SQL, .NET
 
